@@ -1,0 +1,48 @@
+.brand {
+    background: #66ccff !important;
+}
+
+.brand-text {
+    color: #66ccff !important;
+}
+
+form {
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.card-panel {
+    background: #66ccff !important;
+}
+
+article {
+    font-family: Arial;
+}
+
+label {
+    font-family: Arial;
+}
+
+div {
+    font-family: Arial;
+}
+
+a {
+    font-family: Arial;
+}
+
+h3 {
+    font-family: Arial;
+}
+
+iframe {
+    width: 60% !important;
+}
+
+hr {
+    border: none;
+}
+
+
+
